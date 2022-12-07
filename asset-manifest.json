@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc_boom_box/static/css/main.a0e25245.css",
+    "main.js": "/fcc_boom_box/static/js/main.dfb46020.js",
+    "static/js/787.4f45b4f7.chunk.js": "/fcc_boom_box/static/js/787.4f45b4f7.chunk.js",
+    "index.html": "/fcc_boom_box/index.html",
+    "main.a0e25245.css.map": "/fcc_boom_box/static/css/main.a0e25245.css.map",
+    "main.dfb46020.js.map": "/fcc_boom_box/static/js/main.dfb46020.js.map",
+    "787.4f45b4f7.chunk.js.map": "/fcc_boom_box/static/js/787.4f45b4f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0e25245.css",
+    "static/js/main.dfb46020.js"
+  ]
+}
